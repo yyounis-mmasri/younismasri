@@ -1,5 +1,5 @@
 # younismasri
-# 👋 Hi, I'm Hashem Hammad  
+# 👋 Hi, I'm Younis Masri  
 
 🎓 Final-year **Computer Engineering Student**  
 💻 Full-Stack Developer | MERN (MongoDB, Express, React, Node.js)  
