@@ -38,15 +38,7 @@ Personal portfolio built with React + Vercel to showcase my work.
 
 ---
 
-## 📊 GitHub Stats
-![Hashem's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
 
----
-
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/USERNAME)  
-- [Portfolio](https://USERNAME.vercel.app)  
-- [Email](mailto:YOUR_EMAIL@gmail.com)  
 
 ---
 ✨ *“Code, Learn, Repeat.”*  
